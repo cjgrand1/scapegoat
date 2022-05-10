@@ -1,0 +1,5 @@
+project: scapegoat
+target: fuzz
+
+cmds:
+  - cmd: /Cargo
